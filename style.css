@@ -1,0 +1,36 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#website-title{
+    font-size: 128px;
+    color: #e9ad8b;
+    text-align: center;
+    font-weight: 800;
+}
+
+.red-text{
+    color: red;
+}
+
+.font-bold{
+    font-weight: 800;
+}
+
+#second{
+    border: 2px red solid;
+    padding: 10px 5px;
+    margin: 10px 10px;
+    display: inline-block;
+    width: 500px;
+}
+
+.big{
+    font-size: 64px;
+}
+
+.container{
+    border: 2px blue solid;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
